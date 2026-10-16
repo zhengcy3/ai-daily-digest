@@ -19,3 +19,9 @@
 主题分类由 `scripts/build_data.py` 关键词规则自动生成，可用 `topic_overrides` 纠正。
 
 本地预览：`python3 -m http.server -d /workspace/ai-daily-digest 8000` 后打开 http://localhost:8000
+
+## 静态资源版本号（缓存）
+页面通过 `assets/base.css?v=YYYYMMDD`、`assets/theme.css?v=…`、`assets/app.js?v=…` 引用资源。
+**每次修改 assets 下的 css/js 并发布时**，把 index.html、archive.html、search.html、bloggers.html 中的 `v=` 统一改为发布日期，例如：
+`sed -i 's/?v=[0-9]*/?v=20261020/g' index.html archive.html search.html bloggers.html`
+只发布 data/ 时无需改。`assets/common.js` 为 v5 迁移保留：旧缓存页面会加载它并强制刷新一次（sessionStorage 标记 `aidd-v5-reload`，不会循环）；`style.css home.js issue.js search.js bloggers.js theme-toggle.js` 为空文件，避免旧缓存页 404。
