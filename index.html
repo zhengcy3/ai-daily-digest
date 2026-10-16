@@ -1,0 +1,3 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>AI 博主日报</title><link rel="stylesheet" href="assets/style.css"><script src="assets/common.js"></script></head>
+<body><main><h1>AI 博主日报</h1><div class="sub">每天汇总 X 上 100 位 AI 博主过去 24 小时的原创帖，结论先行、中英对照。</div><div id="list">加载中…</div></main>
+<script>fetch('data/index.json').then(r=>r.json()).then(L=>{$('#list').innerHTML=L.map(x=>`<a href="issue.html?d=${x.date}" style="text-decoration:none;color:inherit"><div class="card"><h2>${x.date} <small>${x.post_count} 条帖子 · ${x.blogger_count} 位博主发帖</small></h2><div>${esc(x.summary)}</div><div class="sub" style="color:#2b6cb0">阅读本期 →</div></div></a>`).join('')})</script></body></html>
