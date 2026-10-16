@@ -1,30 +1,6 @@
-<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>AI 博主日报</title><link rel="stylesheet" href="assets/style.css"><script src="assets/common.js"></script></head>
-<body><main><div id="head">加载中…</div>
-<div class="controls"><input id="q" placeholder="🔍 搜索结论、原文、博主…"><div class="chips" id="view"></div><div class="chips" id="topics"></div><div class="chips" id="tags"></div></div>
-<div id="body"></div><div id="silent"></div></main>
-<script>
-const d=new URLSearchParams(location.search).get('d');const ORDER=['模型发布','Agent/开发','企业应用','研究','产品工具','其他/闲聊','非AI'];
-let D,st={view:'topic',topic:null,tag:null,hl:false,q:''};
-fetch(`data/${d}.json`).then(r=>r.json()).then(x=>{D=x;document.title=`AI 博主日报 ${d}`;head();chips();render()}).catch(()=>$('#head').innerHTML='未找到该期');
-function head(){$('#head').innerHTML=`<h1>AI 博主日报 · ${D.date}</h1><div class="sub">${esc(D.window)} · 仅原创帖</div>
-<div class="stats"><div><b>${D.blogger_count}</b>发帖博主</div><div><b>${D.post_count}</b>帖子总数</div><div><b>${D.silent.length}</b>未发帖</div></div>
-<div class="card tldr"><b>一句话总结：</b>${esc(D.summary)}</div>
-<div class="card insight"><b>🧽 学习海绵见解</b>（趋势判断与对企业 AI 赋能/开发的启发，均基于当天帖子）${D.insights.map(i=>`<h3>${esc(i.title)}</h3><p>${esc(i.body)}</p>`).join('')}</div>`}
-function chip(id,items,key){$(id).innerHTML=items.map(([v,l])=>`<span class="chip ${st[key]===v?'on':''}" data-v="${esc(v??'')}">${esc(l)}</span>`).join('');
- $(id).querySelectorAll('.chip').forEach(c=>c.onclick=()=>{const v=c.dataset.v||null;st[key]=(key!=='view'&&st[key]===v)?null:v;if(key==='hl')st.hl=!st.hl;chips();render()})}
-function chips(){const tc={},gc={};D.posts.forEach(p=>{tc[p.topic]=(tc[p.topic]||0)+1;p.tags.forEach(t=>gc[t]=(gc[t]||0)+1)});
- chip('#view',[['topic','按主题'],['blogger','按博主']],'view');
- chip('#topics',[[null,'全部主题'],...ORDER.filter(t=>tc[t]).map(t=>[t,`${t} ${tc[t]}`]),['★','★ 推荐']],'topic');
- chip('#tags',Object.entries(gc).sort((a,b)=>b[1]-a[1]).map(([t,n])=>[t,`#${t} ${n}`]),'tag')}
-$('#q').oninput=e=>{st.q=e.target.value.trim().toLowerCase();render()};
-function post(p){return `<div class="post ${p.highlight?'hl':''}">${p.highlight?'<span class="star">★ 推荐</span>':''}<span class="c">${esc(p.conclusion)}</span>
-${p.keypoints.length?`<ul class="kp">${p.keypoints.map(k=>`<li>${esc(k)}</li>`).join('')}</ul>`:''}
-${p.en&&p.zh?`<div class="zh">译：${esc(p.zh)}</div><details><summary>英文原文</summary><pre>${esc(p.text)}</pre></details>`:`<details><summary>原文</summary><pre>${esc(p.text)}</pre></details>`}
-<div class="meta">${st.view==='topic'?`<b>${esc(p.name)}</b> @${esc(p.handle)} · `:''}${bj(p.time)} 北京时间 · ❤ ${p.likes} · ${p.tags.map(t=>`<span class="tag">#${esc(t)}</span>`).join('')}<a href="${p.url}" target="_blank">原文 →</a></div></div>`}
-function render(){let P=D.posts.filter(p=>(!st.topic||(st.topic==='★'?p.highlight:p.topic===st.topic))&&(!st.tag||p.tags.includes(st.tag))&&(!st.q||(p.conclusion+p.text+p.zh+p.handle+p.name).toLowerCase().includes(st.q)));
- P.sort((a,b)=>b.highlight-a.highlight||b.likes-a.likes);const g={};
- P.forEach(p=>{const k=st.view==='topic'?p.topic:p.handle;(g[k]=g[k]||[]).push(p)});
- let keys=Object.keys(g);keys.sort(st.view==='topic'?(a,b)=>ORDER.indexOf(a)-ORDER.indexOf(b):(a,b)=>g[b].length-g[a].length);
- $('#body').innerHTML=(P.length?'':'<div class="card">没有匹配的帖子</div>')+keys.map(k=>`<section class="card"><h2>${st.view==='topic'?esc(k):`${esc(g[k][0].name)} <small>@${esc(k)} · ${esc(g[k][0].group.split('：')[0])}</small>`} <small>${g[k].length} 条</small></h2>${g[k].map(post).join('')}</section>`).join('');
- $('#silent').innerHTML=`<section class="card"><h2>当天没发原创帖的博主 <small>${D.silent.length}</small></h2><div class="silent">${D.silent.map(h=>`<span>@${esc(h)}</span>`).join('')}</div></section><p class="sub">说明：结论只基于帖子文字，未展开外链/图片；不编造原文没有的内容。</p>`}
-</script></body></html>
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><script>(function(){try{var t=localStorage.getItem("aidd-theme")}catch(e){}document.documentElement.dataset.theme=t==="light"?"light":"dark"})()</script><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AI博主日报 · 每期</title><meta name="description" content="每天汇总 AI 博主的一手观点与学习海绵见解"><meta property="og:title" content="AI博主日报 · 每期"><meta property="og:description" content="每天汇总 AI 博主的一手观点与学习海绵见解"><meta property="og:type" content="article">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%232b6cb0'/%3E%3Ctext x='16' y='22' font-size='16' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='700'%3EAI%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/style.css"><link rel="stylesheet" href="assets/theme.css"></head><body data-page="issue">
+<main id="main" tabindex="-1" class="narrow"><div class="skeleton" style="width:40%;height:28px"></div><div class="skeleton"></div><div class="skeleton" style="width:80%"></div></main>
+<script src="assets/common.js"></script><script src="assets/issue.js"></script><script src="assets/theme-toggle.js"></script></body></html>
