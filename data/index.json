@@ -1,5 +1,11 @@
 [
  {
+  "date": "2026-10-17",
+  "summary": "Reflection 发布首个开源权重模型 Beam（501B/23B 激活），Ollama、Vercel 首日免费接入；腾讯混元开源 Hy Memory 2.0，用 3B 激活专用小模型做 Agent 记忆写入；OpenAI 给 GPT-6 Pro/Astra Pro 加入多 Agent 并行，Codex 通过子 Agent 复用上下文提升有效用量；Gemini 4 Argon 四个 Agent 27 小时从零通关 Minecraft；Anthropic 报告称技术岗初级新人占比从 27% 降到 9%；中文区热议 Opus 5.5 做视频与多 Agent 分工工作流，Tesla Roadster 发布刷屏",
+  "post_count": 221,
+  "blogger_count": 64
+ },
+ {
   "date": "2026-10-16",
   "summary": "Meta 开源 Muse Spark Open 刷屏（美国开源模型差距缩小一半），同时 Agent 基建加速走向生产：Perplexity 开源沙箱 SPACE、OpenAI Sites 企业 GA、subagent 与评测方法论成热点；中文圈则被 Tesla Roadster 和“如何稳定用 Claude”占据。",
   "post_count": 388,
