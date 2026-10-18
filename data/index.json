@@ -1,5 +1,11 @@
 [
  {
+  "date": "2026-10-18",
+  "summary": "DeepSeek 周末突袭发布并开源 V4.1-Flash-1017（MIT，官方自测 DeepSWE 77.0、Terminal-Bench 31.2→42.3，输出更短更省），同时商业化搜索/抓取 API，Ollama、OpenCode、WorkBuddy 首日免费或上架，中文区刷屏实测；Anthropic 公开 Claude Code 代码审查体系（PR 翻倍、回滚降 40%+）；fchollet 指出 Agent 写了近 100% 代码但企业利润未变；陶哲轩批评 AI 批量论文把审查成本甩给学界；cellinlab 连载《大分发时代》，马斯克继续刷屏 Roadster 飞行汽车",
+  "post_count": 255,
+  "blogger_count": 50
+ },
+ {
   "date": "2026-10-17",
   "summary": "Reflection 发布首个开源权重模型 Beam（501B/23B 激活），Ollama、Vercel 首日免费接入；腾讯混元开源 Hy Memory 2.0，用 3B 激活专用小模型做 Agent 记忆写入；OpenAI 给 GPT-6 Pro/Astra Pro 加入多 Agent 并行，Codex 通过子 Agent 复用上下文提升有效用量；Gemini 4 Argon 四个 Agent 27 小时从零通关 Minecraft；Anthropic 报告称技术岗初级新人占比从 27% 降到 9%；中文区热议 Opus 5.5 做视频与多 Agent 分工工作流，Tesla Roadster 发布刷屏",
   "post_count": 221,
