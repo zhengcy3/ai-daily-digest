@@ -1,5 +1,11 @@
 [
  {
+  "date": "2026-10-19",
+  "summary": "周日偏安静（43 位博主 227 条，cellinlab 连载《大分发时代》占 46 条）：Anthropic 公布内部用工研究（初级技术岗招聘占比 27%→9%、Agent 工时达人类 6 倍）并把约 20% 股权划给公益基金；Google 开源 Agent Harness 自动优化框架 Harness²；OpenCode 爆出 API Key 被盗事件需立即换 Key；DeepSeek V4.1 Flash 继续被实测、单张 4090 跑起量化版；马斯克密集推广 Grok Bot",
+  "post_count": 227,
+  "blogger_count": 43
+ },
+ {
   "date": "2026-10-18",
   "summary": "DeepSeek 周末突袭发布并开源 V4.1-Flash-1017（MIT，官方自测 DeepSWE 77.0、Terminal-Bench 31.2→42.3，输出更短更省），同时商业化搜索/抓取 API，Ollama、OpenCode、WorkBuddy 首日免费或上架，中文区刷屏实测；Anthropic 公开 Claude Code 代码审查体系（PR 翻倍、回滚降 40%+）；fchollet 指出 Agent 写了近 100% 代码但企业利润未变；陶哲轩批评 AI 批量论文把审查成本甩给学界；cellinlab 连载《大分发时代》，马斯克继续刷屏 Roadster 飞行汽车",
   "post_count": 255,
