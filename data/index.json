@@ -1,5 +1,11 @@
 [
  {
+  "date": "2026-10-20",
+  "summary": "周一 57 位博主 283 条（cellinlab 连载《大分发时代》占 49 条）：MiniMax 揭晓神秘模型 Space Bunny 就是 M3.1 Flash（成本为 M3 的 1/3、速度 3 倍，10 月 23 日开放权重）；Meta 发布能在单张消费级显卡上跑的 30B Agent 模型 Muse Glimmer；网易 LobsterAI《中国办公 Agent 用户行为报告》被多位博主解读（微信是最大入口、单次任务 Token 半年涨 3.2 倍）；美国国土安全部要求联邦机构清除 DeepSeek 及基于它的产品；马斯克宣布明年给每个美国孩子一股 SpaceX",
+  "post_count": 283,
+  "blogger_count": 57
+ },
+ {
   "date": "2026-10-19",
   "summary": "周日偏安静（43 位博主 227 条，cellinlab 连载《大分发时代》占 46 条）：Anthropic 公布内部用工研究（初级技术岗招聘占比 27%→9%、Agent 工时达人类 6 倍）并把约 20% 股权划给公益基金；Google 开源 Agent Harness 自动优化框架 Harness²；OpenCode 爆出 API Key 被盗事件需立即换 Key；DeepSeek V4.1 Flash 继续被实测、单张 4090 跑起量化版；马斯克密集推广 Grok Bot",
   "post_count": 227,
