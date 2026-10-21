@@ -1,5 +1,11 @@
 [
  {
+  "date": "2026-10-21",
+  "summary": "周二 63 位博主 332 条（cellinlab 连载《大分发时代》占 61 条）：DeepSeek 开源支撑 V4.1-Flash 的内部推理框架 DeepInfer（Apache 2.0），十多位博主跟进解读；Meta 工程团队分享“瘦编排器 + 专业 Agent”架构、Addy Osmani 讲 Agent 自我验证，开发者话题集中在 Agent 可靠性；OpenAI 收购药物研发平台 Orchestra Bio、ChatGPT 上线团队任务和锁定聊天、API 支持 12 小时提示缓存；Perplexity Computer 可在 Mac 上完全本地运行；Notion 企业版 AI 改为按积分计费",
+  "post_count": 332,
+  "blogger_count": 63
+ },
+ {
   "date": "2026-10-20",
   "summary": "周一 57 位博主 283 条（cellinlab 连载《大分发时代》占 49 条）：MiniMax 揭晓神秘模型 Space Bunny 就是 M3.1 Flash（成本为 M3 的 1/3、速度 3 倍，10 月 23 日开放权重）；Meta 发布能在单张消费级显卡上跑的 30B Agent 模型 Muse Glimmer；网易 LobsterAI《中国办公 Agent 用户行为报告》被多位博主解读（微信是最大入口、单次任务 Token 半年涨 3.2 倍）；美国国土安全部要求联邦机构清除 DeepSeek 及基于它的产品；马斯克宣布明年给每个美国孩子一股 SpaceX",
   "post_count": 283,
