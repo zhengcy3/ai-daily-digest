@@ -1,5 +1,11 @@
 [
  {
+  "date": "2026-10-22",
+  "summary": "周三 67 位博主 358 条（cellinlab 连载《大分发时代》占 55 条，elonmusk 21 条多为政治话题）：Anthropic 推出主动式个人 Agent Claude Duet，两个多月内第四个同类产品（Grok Bot、Meta Muse、OpenAI Dots 之后）；OpenAI 牵头修复 AI 发现的 PHP 严重漏洞 PHP2Shell，同日 GitLab 满分漏洞、印度证书机构弱私钥、Railway 密钥泄露、Node.js RCE 接连爆出，安全成为最大话题；OpenAI 模型和 Codex 进入 Google Cloud，Codex 登录用户缓存永久保留；Dario 长文回应外部安全质疑；Shopify、Uber、Databricks 分享 Agent 生产实践",
+  "post_count": 358,
+  "blogger_count": 67
+ },
+ {
   "date": "2026-10-21",
   "summary": "周二 63 位博主 332 条（cellinlab 连载《大分发时代》占 61 条）：DeepSeek 开源支撑 V4.1-Flash 的内部推理框架 DeepInfer（Apache 2.0），十多位博主跟进解读；Meta 工程团队分享“瘦编排器 + 专业 Agent”架构、Addy Osmani 讲 Agent 自我验证，开发者话题集中在 Agent 可靠性；OpenAI 收购药物研发平台 Orchestra Bio、ChatGPT 上线团队任务和锁定聊天、API 支持 12 小时提示缓存；Perplexity Computer 可在 Mac 上完全本地运行；Notion 企业版 AI 改为按积分计费",
   "post_count": 332,
