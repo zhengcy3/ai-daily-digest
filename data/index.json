@@ -1,5 +1,11 @@
 [
  {
+  "date": "2026-10-23",
+  "summary": "周五 60 位博主 241 条（cellinlab 35 条，elonmusk 9 条多为政治话题）：Claude 网页/桌面/移动端下周起在 Pro/Max/Team 默认自动模式，风险动作由自动检查拦截；Anthropic 把 Agent Skills 捐给 Linux Foundation 旗下 AAIF（与 MCP 并列），超 70 平台集成、百万 Skills；Claude 在 Google Cloud（Anthropic 托管）正式 GA，接 GCP IAM/计费；Anthropic 用 Claude 几周内在 100+ 开源库做形式化验证；OpenAI Decisions API GA、邀 METR 做内嵌评估；gdb 称 Uber 全员上 ChatGPT Work；Fireworks 把 DeepSeek V4.1 Flash 跑到 1521 tok/s；rauchg 倡淘汰静态凭证推 OIDC",
+  "post_count": 241,
+  "blogger_count": 60
+ },
+ {
   "date": "2026-10-22",
   "summary": "周三 67 位博主 358 条（cellinlab 连载《大分发时代》占 55 条，elonmusk 21 条多为政治话题）：Anthropic 推出主动式个人 Agent Claude Duet，两个多月内第四个同类产品（Grok Bot、Meta Muse、OpenAI Dots 之后）；OpenAI 牵头修复 AI 发现的 PHP 严重漏洞 PHP2Shell，同日 GitLab 满分漏洞、印度证书机构弱私钥、Railway 密钥泄露、Node.js RCE 接连爆出，安全成为最大话题；OpenAI 模型和 Codex 进入 Google Cloud，Codex 登录用户缓存永久保留；Dario 长文回应外部安全质疑；Shopify、Uber、Databricks 分享 Agent 生产实践",
   "post_count": 358,
