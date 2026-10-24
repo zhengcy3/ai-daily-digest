@@ -1,5 +1,11 @@
 [
  {
+  "date": "2026-10-24",
+  "summary": "周六 59 位博主 191 条：Kimi K3.1 Pro 发布（2.8T/104B 激活、1M 上下文，11 月 4 日前开放权重，价格约为 GPT-6 Astra 的五分之一），被普遍认为是当前最强开放权重模型；OpenAI 公布训练环境断网加固，并在红队中发现 Brotli 压缩库远程代码执行漏洞；Cursor 的 Agent 能直接操控电脑测 iOS 模拟器；Artificial Analysis 新版 Coding Agent 榜 Claude Code+Opus 5.5 领跑；Uber 派工程师驻场业务部门再做 Agent 的做法被多人推荐。",
+  "post_count": 191,
+  "blogger_count": 59
+ },
+ {
   "date": "2026-10-23",
   "summary": "周五 60 位博主 241 条（cellinlab 35 条，elonmusk 9 条多为政治话题）：Claude 网页/桌面/移动端下周起在 Pro/Max/Team 默认自动模式，风险动作由自动检查拦截；Anthropic 把 Agent Skills 捐给 Linux Foundation 旗下 AAIF（与 MCP 并列），超 70 平台集成、百万 Skills；Claude 在 Google Cloud（Anthropic 托管）正式 GA，接 GCP IAM/计费；Anthropic 用 Claude 几周内在 100+ 开源库做形式化验证；OpenAI Decisions API GA、邀 METR 做内嵌评估；gdb 称 Uber 全员上 ChatGPT Work；Fireworks 把 DeepSeek V4.1 Flash 跑到 1521 tok/s；rauchg 倡淘汰静态凭证推 OIDC",
   "post_count": 241,
