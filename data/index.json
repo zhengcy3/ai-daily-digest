@@ -1,5 +1,11 @@
 [
  {
+  "date": "2026-10-25",
+  "summary": "周日 46 位博主 197 条：Claude Code 核心开发者 Thariq 和桌面版开发者 Anthony Morris 先后离开 Anthropic，引发大量讨论；Kimi K3.1 Pro 被曝海外宣发要求博主隐瞒合作，natolambert 认为实际体验可能「没打中」；DeepSeek-V4.1-Flash 实测编程大幅提升但 Agent 行为变「抠门」；Claude 工程负责人 Felix 建议把全量数据和工具交给模型、用对抗评审防幻觉；Netflix 用知识图谱统一可观测性数据加速排障；有人解锁 3090 显卡寄存器，同功耗算力提升约 80%。",
+  "post_count": 197,
+  "blogger_count": 46
+ },
+ {
   "date": "2026-10-24",
   "summary": "周六 59 位博主 191 条：Kimi K3.1 Pro 发布（2.8T/104B 激活、1M 上下文，11 月 4 日前开放权重，价格约为 GPT-6 Astra 的五分之一），被普遍认为是当前最强开放权重模型；OpenAI 公布训练环境断网加固，并在红队中发现 Brotli 压缩库远程代码执行漏洞；Cursor 的 Agent 能直接操控电脑测 iOS 模拟器；Artificial Analysis 新版 Coding Agent 榜 Claude Code+Opus 5.5 领跑；Uber 派工程师驻场业务部门再做 Agent 的做法被多人推荐。",
   "post_count": 191,
