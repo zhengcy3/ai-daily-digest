@@ -1,5 +1,11 @@
 [
  {
+  "date": "2026-10-26",
+  "summary": "周一 45 位博主 207 条：Anthropic/Claude 博客主张默认单 Agent+Skills 渐进披露，优于复制组织架构的多专家编排；Kimi 为 K3.1 Pro 限流致歉并给全员重置 25% 额度；Block/Jack 发布纯语音全双工 Dessa 可本地跑；OpenAI 靠折扣抢走 Rippling/Replit 大半编码份额；Grok Bot 上线代打电话并回传摘要；gpu-unlock 让 30/40 系本地算力白嫖提升。",
+  "post_count": 207,
+  "blogger_count": 45
+ },
+ {
   "date": "2026-10-25",
   "summary": "周日 46 位博主 197 条：Claude Code 核心开发者 Thariq 和桌面版开发者 Anthony Morris 先后离开 Anthropic，引发大量讨论；Kimi K3.1 Pro 被曝海外宣发要求博主隐瞒合作，natolambert 认为实际体验可能「没打中」；DeepSeek-V4.1-Flash 实测编程大幅提升但 Agent 行为变「抠门」；Claude 工程负责人 Felix 建议把全量数据和工具交给模型、用对抗评审防幻觉；Netflix 用知识图谱统一可观测性数据加速排障；有人解锁 3090 显卡寄存器，同功耗算力提升约 80%。",
   "post_count": 197,
