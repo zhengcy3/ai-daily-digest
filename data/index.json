@@ -1,5 +1,11 @@
 [
  {
+  "date": "2026-10-27",
+  "summary": "58位博主共320帖；Anthropic 正式提交 S-1（代码 ANT）财务与算力合同成焦点；OpenAI 发 GPT-6.1 Terra 强化电脑操作并降价；Cursor 推 Agent SDK 并上线 DeepSeek V4.1 Flash；腾讯开源 Hy-SimulMT 实时同传、BOSS直聘 Nanbeige4.3-33B 与 berryxia 数字人 Skills 等开源工具密集出现。",
+  "post_count": 320,
+  "blogger_count": 58
+ },
+ {
   "date": "2026-10-26",
   "summary": "周一 45 位博主 207 条：Anthropic/Claude 博客主张默认单 Agent+Skills 渐进披露，优于复制组织架构的多专家编排；Kimi 为 K3.1 Pro 限流致歉并给全员重置 25% 额度；Block/Jack 发布纯语音全双工 Dessa 可本地跑；OpenAI 靠折扣抢走 Rippling/Replit 大半编码份额；Grok Bot 上线代打电话并回传摘要；gpu-unlock 让 30/40 系本地算力白嫖提升。",
   "post_count": 207,
