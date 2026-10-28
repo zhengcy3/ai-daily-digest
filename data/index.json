@@ -1,5 +1,11 @@
 [
  {
+  "date": "2026-10-28",
+  "summary": "57位博主共268帖；Google DeepMind 发布可交互世界模型 Genie 4（原生音视频、实时操控）；Anthropic 公开 Claude 药研合作与 OneGov 政府折扣，并收购一人药企 Mithril；百度文心 Unlimited OCR 2 开源超长文档解析；Cursor Design Annotate、Replit Cloud Agents、MiniMax OpenAgentCore 等 Agent 基建密集更新。",
+  "post_count": 268,
+  "blogger_count": 57
+ },
+ {
   "date": "2026-10-27",
   "summary": "58位博主共320帖；Anthropic 正式提交 S-1（代码 ANT）财务与算力合同成焦点；OpenAI 发 GPT-6.1 Terra 强化电脑操作并降价；Cursor 推 Agent SDK 并上线 DeepSeek V4.1 Flash；腾讯开源 Hy-SimulMT 实时同传、BOSS直聘 Nanbeige4.3-33B 与 berryxia 数字人 Skills 等开源工具密集出现。",
   "post_count": 320,
