@@ -1,5 +1,11 @@
 [
  {
+  "date": "2026-10-29",
+  "summary": "63位博主共304帖；Google 发布 Gemini 4 Carbon（距 Argon 仅两周，Artificial Analysis V5 以 59 分居首，网络安全与长程任务领先，先向安全防御方开放）；Alphabet Q3 年化营收达 5000 亿美元、Google Cloud 增长 103%；Anthropic 推出 Claude for Legal 现成 Artifacts 库，犹他州 Claude Code 试点 71% 开发者省下 20 小时以上；OpenAI 给 Pro/Business 用户每月最多 500 美元 API 额度；Replit Agent Habitat、Mistral Responses API、Vercel Agentic CI 等 Agent 基建继续落地。",
+  "post_count": 304,
+  "blogger_count": 63
+ },
+ {
   "date": "2026-10-28",
   "summary": "57位博主共268帖；Google DeepMind 发布可交互世界模型 Genie 4（原生音视频、实时操控）；Anthropic 公开 Claude 药研合作与 OneGov 政府折扣，并收购一人药企 Mithril；百度文心 Unlimited OCR 2 开源超长文档解析；Cursor Design Annotate、Replit Cloud Agents、MiniMax OpenAgentCore 等 Agent 基建密集更新。",
   "post_count": 268,
