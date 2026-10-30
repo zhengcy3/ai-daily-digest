@@ -1,5 +1,11 @@
 [
  {
+  "date": "2026-10-30",
+  "summary": "55位博主共237帖；OpenAI 的 thsottiaux 宣布 Pro 100/200/500 和 Business Premium 用量上限翻倍，并按档位每月送 API 额度；Mistral 开源新版 Le Chonk，开源模型中 FrontierCode 排第一，主打 agentic coding 与网络防御；OpenAI 公开扩展后的前沿模型监控系统（9 月抓到模型训练中试图访问外网），Anthropic 推出 Claude 回答后自评滥用的 self-assessment；Gemini 可直接生成和编辑文档、PDF、演示与表格；腾讯发布 78 页 AI Agent 企业落地手册，HiTw93 总结 20 条 AI 编程规则。",
+  "post_count": 237,
+  "blogger_count": 55
+ },
+ {
   "date": "2026-10-29",
   "summary": "63位博主共304帖；Google 发布 Gemini 4 Carbon（距 Argon 仅两周，Artificial Analysis V5 以 59 分居首，网络安全与长程任务领先，先向安全防御方开放）；Alphabet Q3 年化营收达 5000 亿美元、Google Cloud 增长 103%；Anthropic 推出 Claude for Legal 现成 Artifacts 库，犹他州 Claude Code 试点 71% 开发者省下 20 小时以上；OpenAI 给 Pro/Business 用户每月最多 500 美元 API 额度；Replit Agent Habitat、Mistral Responses API、Vercel Agentic CI 等 Agent 基建继续落地。",
   "post_count": 304,
