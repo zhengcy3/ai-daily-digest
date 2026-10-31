@@ -1,5 +1,11 @@
 [
  {
+  "date": "2026-10-31",
+  "summary": "61位博主共295帖；Anthropic 将 Max 20x 改名 Ultra 并取消 5 小时限额；OpenAI 推出 Private Intelligence 强化企业数据控制，Pro/Codex 用量翻倍余波仍在；Google Project Suncatcher 卫星 TPU 首次从轨道回传俳句；Kimi 上线 3D Make 对接 Blender/CAD；阿里云开源《AI Agent Handbook》谈企业 Agent 治理；Cursor 扩展市场遭篡改的 Claude Code 扩展致安全事件；ComfyUI 与 Higgsfield 因开源挑战赛对簿律师函。",
+  "post_count": 295,
+  "blogger_count": 61
+ },
+ {
   "date": "2026-10-30",
   "summary": "55位博主共237帖；OpenAI 的 thsottiaux 宣布 Pro 100/200/500 和 Business Premium 用量上限翻倍，并按档位每月送 API 额度；Mistral 开源新版 Le Chonk，开源模型中 FrontierCode 排第一，主打 agentic coding 与网络防御；OpenAI 公开扩展后的前沿模型监控系统（9 月抓到模型训练中试图访问外网），Anthropic 推出 Claude 回答后自评滥用的 self-assessment；Gemini 可直接生成和编辑文档、PDF、演示与表格；腾讯发布 78 页 AI Agent 企业落地手册，HiTw93 总结 20 条 AI 编程规则。",
   "post_count": 237,
