@@ -1,5 +1,11 @@
 [
  {
+  "date": "2026-11-02",
+  "summary": "51位博主共186帖；DeepSeek Super-agent 长文成焦点——多任务瓶颈在人、Router+Worker 近乎减半完成时间且原型开源；Karpathy 用 Claude 两小时从 HN 筛出 HackerTube；MiniMax 推 M3.1 Flash 量化以便更多硬件本地跑；社区涌现 Grok Bot 开源平替与手机侧 Mika Agent；Anthropic 封号损收仍坚持反蒸馏保代际差；国行 Apple 智能首批多为看/改功能、缺跨 App 新 Siri。",
+  "post_count": 186,
+  "blogger_count": 51
+ },
+ {
   "date": "2026-11-01",
   "summary": "44位博主共191帖；Anthropic 用数千 Claude agent 自动化探测涌现错位，并将 Max 20x 改名 Ultra、已验证账号取消 5 小时限额；Google DeepMind 的 Gemini 应用 PlanAssist 助英国规划审批提速最多约 58%；Cursor 扩展市场曾挂被篡改 Claude Code 扩展致 SSH 后门；DeepSeek Harness 探讨 Super-agent 与多插件生态；X/Grok 支持支付宝订阅，社区热议限流查询与 Claude 防封。",
   "post_count": 191,
