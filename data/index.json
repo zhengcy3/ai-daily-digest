@@ -1,5 +1,11 @@
 [
  {
+  "date": "2026-11-03",
+  "summary": "58位博主共251帖；OpenAI 推 LifeVal 日常助理评测；Anthropic 招股书细节称内部 Claude 成本已超人事费用、并开放 Residency；Mistral Large 4 短提示写量子化学 SCF；dots 扩 GPT-6 Astra/Terra；natolambert 讲开放模型如何赢；中文区延续 Karpathy HackerTube 衍生（论文站/书站）、DeepSeek Super-agent 解读与 Personal Agent 实测；Grok Bot/Muse/WorkBuddy 生态热议。",
+  "post_count": 251,
+  "blogger_count": 58
+ },
+ {
   "date": "2026-11-02",
   "summary": "51位博主共186帖；DeepSeek Super-agent 长文成焦点——多任务瓶颈在人、Router+Worker 近乎减半完成时间且原型开源；Karpathy 用 Claude 两小时从 HN 筛出 HackerTube；MiniMax 推 M3.1 Flash 量化以便更多硬件本地跑；社区涌现 Grok Bot 开源平替与手机侧 Mika Agent；Anthropic 封号损收仍坚持反蒸馏保代际差；国行 Apple 智能首批多为看/改功能、缺跨 App 新 Siri。",
   "post_count": 186,
