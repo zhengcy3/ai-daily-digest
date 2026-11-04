@@ -1,5 +1,11 @@
 [
  {
+  "date": "2026-11-04",
+  "summary": "60位博主共303帖；Cat Wu 告别 Anthropic、Claude Code 核心再有人离开；OpenAI 发 Pando（monorepo Git 后端，push 延迟约-80%）并展示 ChatGPT/Codex 做机电仿真；Weight-Space Programming（改 0.016% 权重提数学/指令）被多方复现与讨论；Mistral Large 4 做 Orbital Trace、进 Open Math OS；币安约63亿美元社工链与 Vercel DBSC/安全 Agent 同日升温；Elon 大推 Grok Bot；中文区 Seedance/AI短剧、DeepSeek Harness、Alma Personal Agent、个人AI助理杠杆热议。",
+  "post_count": 303,
+  "blogger_count": 60
+ },
+ {
   "date": "2026-11-03",
   "summary": "58位博主共251帖；OpenAI 推 LifeVal 日常助理评测；Anthropic 招股书细节称内部 Claude 成本已超人事费用、并开放 Residency；Mistral Large 4 短提示写量子化学 SCF；dots 扩 GPT-6 Astra/Terra；natolambert 讲开放模型如何赢；中文区延续 Karpathy HackerTube 衍生（论文站/书站）、DeepSeek Super-agent 解读与 Personal Agent 实测；Grok Bot/Muse/WorkBuddy 生态热议。",
   "post_count": 251,
