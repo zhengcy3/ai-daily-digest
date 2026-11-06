@@ -1,5 +1,11 @@
 [
  {
+  "date": "2026-11-06",
+  "summary": "74位博主共537帖（衔接11-04至今天两日窗）；Cat Wu 告别 Anthropic 次日官宣加盟 OpenAI 掌 Core Products；OpenAI 发 GPT-6 Cyber 与自主漏洞流水线，单次为 Linux 内核验证并修补948个本地提权（约$1k/洞）；ChatGPT Images 2.6 支持 GIF/参考图/SVG、生图约快50%；Kimi K3.1 Pro 开源权重（2.8T/104B）并上 Ollama Cloud；Claude Personal Finance 美国测试；Anthropic 用 Claude 解析细菌 vault 粒子3D结构；腾讯混元 Hy4、Gemini Omni Flash 1.2、Cursor 一键部署可分享应用、Vercel Security Reviews 与 Perplexity teammates 同日升温；中文区 DeepSeek Harness 插件、Workbuddy 写稿与 Seedance 长视频热议；Elon 继续猛推 Grok Bot。",
+  "post_count": 537,
+  "blogger_count": 74
+ },
+ {
   "date": "2026-11-04",
   "summary": "60位博主共303帖；Cat Wu 告别 Anthropic、Claude Code 核心再有人离开；OpenAI 发 Pando（monorepo Git 后端，push 延迟约-80%）并展示 ChatGPT/Codex 做机电仿真；Weight-Space Programming（改 0.016% 权重提数学/指令）被多方复现与讨论；Mistral Large 4 做 Orbital Trace、进 Open Math OS；币安约63亿美元社工链与 Vercel DBSC/安全 Agent 同日升温；Elon 大推 Grok Bot；中文区 Seedance/AI短剧、DeepSeek Harness、Alma Personal Agent、个人AI助理杠杆热议。",
   "post_count": 303,
