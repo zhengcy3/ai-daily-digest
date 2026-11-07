@@ -1,5 +1,11 @@
 [
  {
+  "date": "2026-11-07",
+  "summary": "59位博主共243帖（衔接昨日08:11至今早）；Meta 把 Muse Wonder 专用模型（Active Memory/Focus）带进 Muse 与 Meta AI；Nous 发 Arete-27B（Qwen3.8-27B 后训练强化西方价值观）；Anthropic 讲 Claude「dreaming」整理记忆；OpenAI 发 BioBasicsBench 与网络越狱严重度框架；DeepMind 用 Agent 压测发现遗留 1024-bit RSA 两处弱点；通义 Qwen「The becoming begins」预热；Gemini Omni 1.2 Flash 商用接替 Veo；Vercel 开源 agent-desktop 不抢鼠标操控电脑；中文区继续热议 DeepSeek Harness、Magpie 封号与 Claude Personal Finance 争议。",
+  "post_count": 243,
+  "blogger_count": 59
+ },
+ {
   "date": "2026-11-06",
   "summary": "74位博主共537帖（衔接11-04至今天两日窗）；Cat Wu 告别 Anthropic 次日官宣加盟 OpenAI 掌 Core Products；OpenAI 发 GPT-6 Cyber 与自主漏洞流水线，单次为 Linux 内核验证并修补948个本地提权（约$1k/洞）；ChatGPT Images 2.6 支持 GIF/参考图/SVG、生图约快50%；Kimi K3.1 Pro 开源权重（2.8T/104B）并上 Ollama Cloud；Claude Personal Finance 美国测试；Anthropic 用 Claude 解析细菌 vault 粒子3D结构；腾讯混元 Hy4、Gemini Omni Flash 1.2、Cursor 一键部署可分享应用、Vercel Security Reviews 与 Perplexity teammates 同日升温；中文区 DeepSeek Harness 插件、Workbuddy 写稿与 Seedance 长视频热议；Elon 继续猛推 Grok Bot。",
   "post_count": 537,
