@@ -1,5 +1,11 @@
 [
  {
+  "date": "2026-11-08",
+  "summary": "45位博主共196帖（衔接昨日08:02 至今早）；Anthropic 的 Claude「dreaming」被系统复盘：利用离线计算整理、纠错记忆并形成新知识，学习发生在外部记忆而非改权重；Google Research 发 SLEEP，把临时知识写入长期参数；《纽约时报》发 Dario Amodei 上市前人物稿；中文区传 Qwen 4/4.0 预览测试；OpenAI Developers 插件上新 Showcase，Pro/Business 可领 API 额度；fchollet 强调数据与算力扩展只是泛化乘数；Thom Wolf 指出同一开源模型换 harness 结果差很多；Airbnb 称专用小模型以约 1% 推理成本接近前沿分类水平；同时 GPT 大面积封号、Claude 增加 KYC，部分中转站切到 DeepSeek 后后者承压。",
+  "post_count": 196,
+  "blogger_count": 45
+ },
+ {
   "date": "2026-11-07",
   "summary": "59位博主共243帖（衔接昨日08:11至今早）；Meta 把 Muse Wonder 专用模型（Active Memory/Focus）带进 Muse 与 Meta AI；Nous 发 Arete-27B（Qwen3.8-27B 后训练强化西方价值观）；Anthropic 讲 Claude「dreaming」整理记忆；OpenAI 发 BioBasicsBench 与网络越狱严重度框架；DeepMind 用 Agent 压测发现遗留 1024-bit RSA 两处弱点；通义 Qwen「The becoming begins」预热；Gemini Omni 1.2 Flash 商用接替 Veo；Vercel 开源 agent-desktop 不抢鼠标操控电脑；中文区继续热议 DeepSeek Harness、Magpie 封号与 Claude Personal Finance 争议。",
   "post_count": 243,
