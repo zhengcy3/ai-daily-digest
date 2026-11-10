@@ -1,5 +1,11 @@
 [
  {
+  "date": "2026-11-10",
+  "summary": "72位博主共463帖（衔接上期 11-08 08:07 至今日 08:09）；Anthropic 发布 Claude Fable 5.2 与 Mythos 5.2，官方称整体强于 Opus 5.5，编码、推理和视觉有提升，API 约降价两成，Pro 本周可试用，Cursor、Perplexity 与 Hermes 已接入，预发布中曾用一段提示设计出能工作的电子设备；Meta 发布最小高效模型 Muse Ember（100万 token 上下文，面向 Agent 杂活）并将与 Muse Wonder、Spark 1.3 一同登陆 Google Cloud；马斯克与 Grok Bot 工程团队连夜评审，称在修 token 效率与更聪明的行为、次日应明显改善，中文区同时出现额度变紧和 OpenMausBot 等开源平替；OpenAI 公开 Control Room 以在安全问题出现时快速中止研究侧推理负载，并为 dot 增加多机连接、上架 Codex 版 Chromatic 掌机；中文区还热议 DeepSeek Harness、字节 Seedream 5.5、蚂蚁 LemonDecider，以及黄仁勋相关非 AI 舆情。",
+  "post_count": 463,
+  "blogger_count": 72
+ },
+ {
   "date": "2026-11-08",
   "summary": "45位博主共196帖（衔接昨日08:02 至今早）；Anthropic 的 Claude「dreaming」被系统复盘：利用离线计算整理、纠错记忆并形成新知识，学习发生在外部记忆而非改权重；Google Research 发 SLEEP，把临时知识写入长期参数；《纽约时报》发 Dario Amodei 上市前人物稿；中文区传 Qwen 4/4.0 预览测试；OpenAI Developers 插件上新 Showcase，Pro/Business 可领 API 额度；fchollet 强调数据与算力扩展只是泛化乘数；Thom Wolf 指出同一开源模型换 harness 结果差很多；Airbnb 称专用小模型以约 1% 推理成本接近前沿分类水平；同时 GPT 大面积封号、Claude 增加 KYC，部分中转站切到 DeepSeek 后后者承压。",
   "post_count": 196,
