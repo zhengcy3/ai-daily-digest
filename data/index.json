@@ -1,5 +1,11 @@
 [
  {
+  "date": "2026-11-13",
+  "summary": "65位博主共267帖（衔接上期 11-12 08:14 至今日 08:12）；Google 发布 Gemini 4 Hydrogen，定位日常写代码和跑 agent，官方称完成任务比 3.8 Flash 快 2.5 倍，API 单价每百万 Token 输入/输出 1.5/7.5 美元，开发者免费层就能用，Cursor 测默认档 CursorBench 从 39.6% 升到 54.3%，并建议与 Carbon 搭配、由 Antigravity 的 Orchestrator 切换；Anthropic 推出 Claude Meetings 测试版，可把 Claude 拉进 Google Meet，边开会边写文档和画白板，向 Team 和 Enterprise 推送，测试期内会议纪要不另收费；Anthropic 正式发帖宣布首次公开发行，并提示投资前阅读向 SEC 提交的招股说明书；豆包工作向所有用户开放 Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等第三方模型，Lite 和 Flash 限时优惠倍率可到 0.01x，多人认为模型已是可替换零件、Harness 才是护城河；歸藏用 Fable 5.2 花一下午、45 亿 token 做出打进 30 兆 HTML 的 3D 动作游戏，另有人约 41 分钟、15.96 美元写出单文件 FPS；李飞飞宣布世界模型 Atlas 向所有人开放；英伟达宣布黄仁勋即日起辞去总裁、CEO 和董事职务，CFO Colette Kress 任临时 CEO，公司首次设董事长，盘前有报道跌约 10%–11%，帖中也大量讨论此前的传闻与开源、算力影响，不涉及未在原文给出的结论。",
+  "post_count": 267,
+  "blogger_count": 65
+ },
+ {
   "date": "2026-11-12",
   "summary": "62位博主共234帖（衔接上期 11-11 08:13 至今日 08:14）；Google 推出 Gemini Decisions API 和配套模型 Gemini Decision 1，不生成文字只做判断，一次最多问 1000 题，输入每百万 Token 0.1 美元、输出不收费，官方称比用生成模型更便宜更快，并与 OpenAI 同名产品和 Jev 1.14 做了对比；阿里宣布 Qwen4 即将到来，Qwen4-Max 已在 Token 平台预览，有人测它能用一句话写 Python 驱动 Blender；百度发布文心 5.5 Flash Preview，总参 280B、激活 14B，办公自动化榜自称超过 Opus 5.5，写代码仍落后，权重称 11 月 25 日前放出；Adobe 在 MAX 推出覆盖全家桶的 Creative Agent，并为 Photoshop 等开放本地 MCP；Cursor 上线团队项目空间，让各人的 Agent 共享上下文、互相沟通；DeepMind 发布 AlphaGenome 2，预测 DNA 变异在不同细胞类型中的影响，并用 AlphaProof Code 把 Signal 协议验证到代码层；中文区继续用 Fable 5.2 做游戏和 HTML，并讨论 Claude 新地区政策与 KYC；Anthropic 招股书显示下周 19 日向散户开放交易，七名联合创始人将合计出售 17.5 亿美元股票。",
   "post_count": 234,
