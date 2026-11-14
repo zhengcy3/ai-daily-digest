@@ -1,5 +1,11 @@
 [
  {
+  "date": "2026-11-14",
+  "summary": "59位博主共241帖（衔接上期 11-13 08:12 至今日 08:17）；DeepSeek 把 App 里的搜索、文件、链接、安全和语音做成 API，也可单独调用 OCR、ASR、TTS，并开源前端演示；Google 本周发布第八代 TPU、Gemini 4 Carbon、Gemini Robotics 2.5、面向疾病研究的 AlphaGenome 2、AI Studio 中的 Gemini Decisions API，以及 Gemini 4 Hydrogen；Hugging Face 与 ggerganov 发布 llama.cpp 首个完全稳定的大版本 v1，强调本地运行、数据不出门；Anthropic 工程博客给出安全评测的 10 条建议，Lydia Hallie 在 AIE Code Summit 上重写 Claude Code 最佳实践，官方还预告与摩根大通 CEO Jamie Dimon 的炉边谈话并附上 IPO 法律声明；LangChain 宣布以 30 亿美元估值融资 3 亿美元，并把经验收进新版 LangSmith；Thinking Machines 的 Inkling 2 Small（594B MoE、1M 上下文）上线 Ollama 云且宣称零数据保留；中文圈同时热议小互等转述的英伟达董事会宣布黄仁勋辞去 CEO 与董事、Stand with Jensen 联署，以及文心 5.5 Flash、豆包工作和 Claude Meetings 的实际体验。",
+  "post_count": 241,
+  "blogger_count": 59
+ },
+ {
   "date": "2026-11-13",
   "summary": "65位博主共267帖（衔接上期 11-12 08:14 至今日 08:12）；Google 发布 Gemini 4 Hydrogen，定位日常写代码和跑 agent，官方称完成任务比 3.8 Flash 快 2.5 倍，API 单价每百万 Token 输入/输出 1.5/7.5 美元，开发者免费层就能用，Cursor 测默认档 CursorBench 从 39.6% 升到 54.3%，并建议与 Carbon 搭配、由 Antigravity 的 Orchestrator 切换；Anthropic 推出 Claude Meetings 测试版，可把 Claude 拉进 Google Meet，边开会边写文档和画白板，向 Team 和 Enterprise 推送，测试期内会议纪要不另收费；Anthropic 正式发帖宣布首次公开发行，并提示投资前阅读向 SEC 提交的招股说明书；豆包工作向所有用户开放 Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等第三方模型，Lite 和 Flash 限时优惠倍率可到 0.01x，多人认为模型已是可替换零件、Harness 才是护城河；歸藏用 Fable 5.2 花一下午、45 亿 token 做出打进 30 兆 HTML 的 3D 动作游戏，另有人约 41 分钟、15.96 美元写出单文件 FPS；李飞飞宣布世界模型 Atlas 向所有人开放；英伟达宣布黄仁勋即日起辞去总裁、CEO 和董事职务，CFO Colette Kress 任临时 CEO，公司首次设董事长，盘前有报道跌约 10%–11%，帖中也大量讨论此前的传闻与开源、算力影响，不涉及未在原文给出的结论。",
   "post_count": 267,
