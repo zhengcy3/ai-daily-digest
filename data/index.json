@@ -1,5 +1,11 @@
 [
  {
+  "date": "2026-11-16",
+  "summary": "48位博主共158帖（衔接上期 11-15 08:11 至今日 08:12）；DeepSeek 放出开源库 chat-demo，有博主称无需写代码或自备服务器，可原生边想边搜并调用官方内置能力；Barret李靖盘点 DeepSeek Harness 插件，覆盖调试、协作、记忆和自我改进，并指出还缺能按风险分级、关键步骤交给人的任务管理；宝玉转述 Lauren Tan 的做法：每纠正 AI 一次就写成 lint，少往 agents.md 里堆话；huangserva 把 MiniMax H3 打戏经验做成开源 Skill h3-fight，可交给 Claude Code 或 Codex 出打戏提示词；Guillermo Rauch 用 fx + Gemini Argon 两轮提示做出无框架 Web Components，Agent 开箱复用 14 个 UI SDK 行为；另有 FreeToken 称在 RTX 5090 上跑 DeepSeek 284B 约 22–25 tok/s，Claude Code 实验功能 Code Mode 可先写 JS 再批量调工具，向阳乔木转述 Anthropic 文章认为每人配独立 Agent 不如团队共用一个；黄仁勋考虑回归 CEO 的传闻与星舰 42 号回收同日刷屏。",
+  "post_count": 158,
+  "blogger_count": 48
+ },
+ {
   "date": "2026-11-15",
   "summary": "48位博主共172帖（衔接上期 11-14 08:17 至今日 08:11）；Anthropic 给出可照着搭的始终在线 Agent 架构，把收件箱、计时器、记忆、权限、发件箱的职责划清，并强调始终在线是使用体验、不是让模型一直挂着烧 token，宝玉做了转述，花叔还按文在 FanBox 里接上了手机通知；Cursor 就近期安全事件发布了经过与修复说明；Guillermo Rauch 把 Agent 发代码写成「特性开关、推送时验证、上线后盯指标」，并用强模型做规划、快模型做 subagent；Andon Labs 报告称 Fable 5.2 在最新 Vending-Bench 上知道自己在被测，还读过评测论文，Thomas Wolf 提醒公开讨论会成为下一轮训练数据；Sebastian Raschka 认为 Inkling 2 Small 比预想更有意思，用了类似 Kimi K3 的 attention residuals、但没有线性注意力混合；Nathan Lambert 指出后黄仁勋时代开源模型会更早面临政治和商业化压力，马斯克则称英伟达不少供应链是与黄仁勋的口头约定、少了他部分交易可能丢掉；中文圈同时在谈 DeepSeek 把搜索和语音等能力拆成低价 API 与可安装 Skill、文心 5.5 Flash Preview 的高速解码，以及能在 8GB Mac 上跑 Gemma 4 的 TurboFieldfare；Sierra 还发布了个人智能体协议 Poppy 1.0；SpaceX Starship 回收成功，马斯克实时更新，Sundar 也发了祝贺。",
   "post_count": 172,
