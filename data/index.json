@@ -1,5 +1,11 @@
 [
  {
+  "date": "2026-11-17",
+  "summary": "57位博主共220帖（衔接上期 11-16 08:12 至今日 08:04）；Qwen 发布旗舰 Qwen4-Max，基于全新 MoE、原生视觉、百万 token 上下文，官方称内部评测最多约少 50% token 且优于 Qwen3.8-Max、单任务平均成本降超 60%，API 已上线并预告较小参数将开源权重，社区实测称长任务过关率提升、可连续跑超 5 小时并按清单自检；腾讯 Hy4 flash 主打低价，向阳乔木用 Workbuddy 限免额度约 1 小时做出马斯克访谈网站，称官方测算单任务成本约为 Hy4 的 1/20，限免至 11 月 30 日；OpenAI 介绍物理学家与 GPT-6 Astra 合作提出标准模型候选格点定义，并将向最多 20 万名科学家免费开放前沿模型（11 月 23 日开放申请，默认不用项目数据训练），对 1800 多名参与者的研究称生产力几乎翻倍；另有 Hugging Face 把 OpenRouter 直接集成进 Hub，Perplexity 成立 Frontier Research 做自主研究系统，腾讯开源自托管交付平台 LoopForge，微软 TokenEconomizer 称可让 Coding Agent 成本下降 18.4%–30.9%；Codex 团队称可能已修好 “model at capacity” 错误；马斯克星舰与 Starlink 相关帖仍占高赞。",
+  "post_count": 220,
+  "blogger_count": 57
+ },
+ {
   "date": "2026-11-16",
   "summary": "48位博主共158帖（衔接上期 11-15 08:11 至今日 08:12）；DeepSeek 放出开源库 chat-demo，有博主称无需写代码或自备服务器，可原生边想边搜并调用官方内置能力；Barret李靖盘点 DeepSeek Harness 插件，覆盖调试、协作、记忆和自我改进，并指出还缺能按风险分级、关键步骤交给人的任务管理；宝玉转述 Lauren Tan 的做法：每纠正 AI 一次就写成 lint，少往 agents.md 里堆话；huangserva 把 MiniMax H3 打戏经验做成开源 Skill h3-fight，可交给 Claude Code 或 Codex 出打戏提示词；Guillermo Rauch 用 fx + Gemini Argon 两轮提示做出无框架 Web Components，Agent 开箱复用 14 个 UI SDK 行为；另有 FreeToken 称在 RTX 5090 上跑 DeepSeek 284B 约 22–25 tok/s，Claude Code 实验功能 Code Mode 可先写 JS 再批量调工具，向阳乔木转述 Anthropic 文章认为每人配独立 Agent 不如团队共用一个；黄仁勋考虑回归 CEO 的传闻与星舰 42 号回收同日刷屏。",
   "post_count": 158,
