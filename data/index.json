@@ -1,5 +1,11 @@
 [
  {
+  "date": "2026-11-18",
+  "summary": "67位博主共246帖（衔接上期 11-17 08:04 至今日 08:10）；OpenAI 发布 GPT-6.2 Astra 与 Sol，称非常高效、面向真实世界表现，已登陆 Codex 与 API，Sam Altman 特别提到 6.2 Sol ultrafast 很省 token，宝玉根据官方博客梳理称 Plus 及以上订阅可在 ChatGPT Work 和 Codex 中使用、Astra API 降价 20%，在 Agents' Last Exam 上比上一代高 5.2 分且花费不到三分之一；Google 将由 Gemini 4 Hydrogen 驱动的 Tasks 免费开放给六个国家的数亿用户，可把邮件 RSVP、经批准后致电商家比价和结账等事务交给它；Demis Hassabis 宣布 IsomorphicLabs 获得 50 亿美元融资，以加速用 AI 从第一性原理重新构想药物设计；Mustafa Suleyman 称 MAI Cyber 2 Flash 在 CyberGymE2E 上胜过 GPT 6 Astra、每项任务成本仅为 2%，MAI Code 2 在日常编码上可达 GPT-6.1 Sol 98% 的性能且价格不到一半；另有 Mistral 为庆祝 Vibe 与 Le Chonk 在欧洲提供前 3 个月免费，clem 发布为 pi coding agent 适配的 Qwen3.8-27B-pi-adapted（SWE-bench Pro Hard 51 的 pass@1 从 29.4% 升至 62.7%，每项任务 tool calls 减少 55–62%），Jason Wei 从 Meta TBD lab 加入 Mercor 任 Chief Scientist，Perplexity 推出 Multiagent、Replit 推出 Missions，ollama 分享系统提示时间戳和 reasoning effort 会破坏 coding agent 缓存的经验。",
+  "post_count": 246,
+  "blogger_count": 67
+ },
+ {
   "date": "2026-11-17",
   "summary": "57位博主共220帖（衔接上期 11-16 08:12 至今日 08:04）；Qwen 发布旗舰 Qwen4-Max，基于全新 MoE、原生视觉、百万 token 上下文，官方称内部评测最多约少 50% token 且优于 Qwen3.8-Max、单任务平均成本降超 60%，API 已上线并预告较小参数将开源权重，社区实测称长任务过关率提升、可连续跑超 5 小时并按清单自检；腾讯 Hy4 flash 主打低价，向阳乔木用 Workbuddy 限免额度约 1 小时做出马斯克访谈网站，称官方测算单任务成本约为 Hy4 的 1/20，限免至 11 月 30 日；OpenAI 介绍物理学家与 GPT-6 Astra 合作提出标准模型候选格点定义，并将向最多 20 万名科学家免费开放前沿模型（11 月 23 日开放申请，默认不用项目数据训练），对 1800 多名参与者的研究称生产力几乎翻倍；另有 Hugging Face 把 OpenRouter 直接集成进 Hub，Perplexity 成立 Frontier Research 做自主研究系统，腾讯开源自托管交付平台 LoopForge，微软 TokenEconomizer 称可让 Coding Agent 成本下降 18.4%–30.9%；Codex 团队称可能已修好 “model at capacity” 错误；马斯克星舰与 Starlink 相关帖仍占高赞。",
   "post_count": 220,
