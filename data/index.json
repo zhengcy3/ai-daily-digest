@@ -1,5 +1,11 @@
 [
  {
+  "date": "2026-11-22",
+  "summary": "55位博主共208帖（衔接上期 11-21 08:05 至今日 08:05）；多家继续讨论 Anthropic 数学家 Levent Alpöge 与 Claude 合作、以约 1700 万行 Lean 代码交出的黎曼猜想及广义黎曼猜想证明，AYi 称 Lean FRO 与 Mathlib 已发联合声明确认通过核验、全球社区约 24 小时完成联合验证，铁锤人介绍其履历并称机器跑通后仍需人工核对定义、不会因此让银行加密失效，宝玉对照斯坦福当天放出的纯人工证明草稿称机器说没错、人还没读懂；谷歌黑五 Plus 和年度 Pro 最高五折，老用户早鸟至 11 月 26 日、新号需等 27 日，实践哥 Li 称 Pro 年付约 99 美元，铁锤人提醒 Plus 在 Antigravity 里与免费版同一档、用不了 Gemini 4 Neon，歸藏称缓存命中率约提升 4%、同等配额任务量至少提升 20% 且已重置；WorkBuddy 上线电脑应用操控，李岳称可操控桌面微信发消息和整理群聊、实测账号未见违规提醒，并给出 v5.11.3 教程；花叔宣布开源 skill huashu-design 星标过 3 万并发布 3.4，称拆了 90 个苹果年度入围 App 以提升 Agent 设计能力；clem 称 Thinking Machines 的 Inkling 2 Mini 在 Hugging Face 热门第一，AIGCLINK 称其采用循环 Transformer、总参数 26.4B、激活 3.4B，可在笔记本离线运行；实践哥 Li 还称特朗普公开希望黄仁勋回到英伟达，并称该公司当天股价暴跌 14%、一天蒸发近 5000 亿美元。",
+  "post_count": 208,
+  "blogger_count": 55
+ },
+ {
   "date": "2026-11-21",
   "summary": "69位博主共245帖（衔接上期 11-20 08:06 至今日 08:05）；多家称 Anthropic 数学家 Levent Alpöge 与 Claude 合作完成了黎曼猜想及广义黎曼猜想的完整推演，Gorden Sun 称论证不依赖任何未经证实的假设、并全部通过计算机验证，Amjad Masad 称同一时期还将出现一份人类证明，若两者都正确可比较差异尤其是优雅程度，Sundar Pichai 称欧拉、高斯和黎曼今天也会感到敬畏；实践哥 Li 更新 Anthropic 上市首日：发行价 83 美元、开盘 111.50 美元、收盘 97.17 美元，较发行价涨约 17%、较开盘回落约 12.9%，开盘市值一度约 2 万亿美元、收盘按完全稀释口径约 1.77 万亿美元，歸藏称盘前已跌到 87 美元、几乎破发并拖累半导体；Demis Hassabis 称与 Merck 合作设计一种新抗癌药，是 Iso 重新构想药物发现的又一证明，OpenAI 发布药物化学推理基准 MedChemBench，并介绍与 PerturbAI、Scripps 在神经退行性疾病上的合作；clem 称 Thinky Machines 今日以 Apache 2.0 发布 Inkling 2 Mini、达到开放 Agent 模型的帕累托前沿，ollama 称已可在 0.40.17 预发布版于 32GB 及以上内存的 Mac 上本地运行，5.4B 激活参数、每个 token 在中间层循环三次；Greg Brockman 称 GPT-6.2 Astra 在物理 3D 理解基准上超过人类基线，并向 Plus 用户推出 ChatGPT Space，LangChain 称 gpt-6-luna 在 LangSmith Signal 上被 27% 的生产团队使用并升至第一；Google DeepMind 展示 Gemini 4 Neon 根据真实勃朗峰地形编写滑雪模拟器，Gemini 应用称可用最新视频模型 Gemini Omni 1.2 Flash 生成 GIF；huangserva 称吴泳铭在财报会宣布千问团队用平头哥自研芯片训练 Qwen 5.0 全系、百炼也用国产芯片提供推理，平头哥今年上线真武 M890、2027 年量产 V900、2028 年量产 J900；Sac 称豆包工作上线三个月日活已破 800 万，常用模型 0.01 倍率、小额免单，多人对比其与 WorkBuddy 的账单可差一倍以上；Guillermo Rauch 称 Vercel 的 AI 基础设施已通过 ISO 42001:2023 年度审计，OpenAI 则分享了打击模型蒸馏、检测协同尝试的新研究。",
   "post_count": 245,
