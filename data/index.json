@@ -1,5 +1,11 @@
 [
  {
+  "date": "2026-11-23",
+  "summary": "44位博主共194帖（衔接上期 11-22 08:05 至今日 08:13）；特斯拉开始推送 FSD V15，Elon Musk 称全新架构配得上 super intelligence、开车好过人类智能，并澄清关键提升是 25 倍而非 25%，还把 FSD 比作现实里的 GTA；AYi、Gorden Sun、铁锤人和小互介绍车机新增 Tesla Reality View，称由共享视觉编码器 UVE 与约 1B 参数的扩散模型实时生成 3D 街景，云端完整版用于合成训练数据。Sam Altman 称 OpenAI 近来最重要的发布是就预训练进展提供大量透明度，并希望业界就共同限制达成一致，以利于安全与可控；Greg Brockman 进一步介绍以 perplexity 等指标设定开发者承诺暂不跨越的共同上限，直到理解和监控能力达到如 CoT monitors 后继方案等里程碑，Sebastian Raschka 也称预训练并未进入平台期。黎曼猜想话题继续：AIGCLINK 梳理 Alpöge 与 Claude 合作的约 1700 万行 Lean 证明，Gorden Sun 称 Lean FRO 与 Mathlib 联合声明确认证明正确，Zho 介绍 MIT 交叉检查与可探索的证明地图，Guillermo Rauch 认为证明应附带论文、讲解和新概念。Agent 安全方面，Mustafa Suleyman 称一个 Agent 仅用一条 obtain shell access 命令、约 11 分钟就在医学影像应用中发现并利用零日漏洞，提醒野外未加防护的 Agent harness 是重大威胁；凡人小北提醒提示词可能在中转环节被留存。产品侧，花叔发布 huashu-design 3.5，称可设计微信小程序并交给 WorkBuddy 做成真小程序；逸尘给出 Antigravity 桌面端从 0 到 1 教程；多家称在 T3 Code 里用 Antigravity 不会被封号；黄赟称用日区付款把 Gemini Pro 年付做到约 91.54 美元，huangserva 称已有账号刷到 Google AI Pro 年付 99 美元。AIGCLINK 还称 AMD 工程师用 Gemini 4 Neon 作 Coding Agent，4.3 小时、约 490 次工具调用，把 Inkling 2 Mini 在 AMD 上的生成速度优化到接近翻倍、长上下文输入处理提升 5.9 倍。",
+  "post_count": 194,
+  "blogger_count": 44
+ },
+ {
   "date": "2026-11-22",
   "summary": "55位博主共208帖（衔接上期 11-21 08:05 至今日 08:05）；多家继续讨论 Anthropic 数学家 Levent Alpöge 与 Claude 合作、以约 1700 万行 Lean 代码交出的黎曼猜想及广义黎曼猜想证明，AYi 称 Lean FRO 与 Mathlib 已发联合声明确认通过核验、全球社区约 24 小时完成联合验证，铁锤人介绍其履历并称机器跑通后仍需人工核对定义、不会因此让银行加密失效，宝玉对照斯坦福当天放出的纯人工证明草稿称机器说没错、人还没读懂；谷歌黑五 Plus 和年度 Pro 最高五折，老用户早鸟至 11 月 26 日、新号需等 27 日，实践哥 Li 称 Pro 年付约 99 美元，铁锤人提醒 Plus 在 Antigravity 里与免费版同一档、用不了 Gemini 4 Neon，歸藏称缓存命中率约提升 4%、同等配额任务量至少提升 20% 且已重置；WorkBuddy 上线电脑应用操控，李岳称可操控桌面微信发消息和整理群聊、实测账号未见违规提醒，并给出 v5.11.3 教程；花叔宣布开源 skill huashu-design 星标过 3 万并发布 3.4，称拆了 90 个苹果年度入围 App 以提升 Agent 设计能力；clem 称 Thinking Machines 的 Inkling 2 Mini 在 Hugging Face 热门第一，AIGCLINK 称其采用循环 Transformer、总参数 26.4B、激活 3.4B，可在笔记本离线运行；实践哥 Li 还称特朗普公开希望黄仁勋回到英伟达，并称该公司当天股价暴跌 14%、一天蒸发近 5000 亿美元。",
   "post_count": 208,
